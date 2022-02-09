@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name: James West 
+NETID: jw7034
+Favorite book and author: Cannery Row - John Stienbeck
